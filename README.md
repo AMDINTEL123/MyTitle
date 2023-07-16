@@ -1,2 +1,2 @@
 # MyTitle
-This is a JFrame containing my full names. 
+This is a JFrame form from the swing package containing my full names. 
